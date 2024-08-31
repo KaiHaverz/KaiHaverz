@@ -2,7 +2,7 @@
 
 🏫 I'm currently an undergraduate student at Nankai University, studying Soft Engineering. 
 
-![Metrics](https://github-readme-stats.vercel.app/api?username=Lewis.Mao.Lee.4&show_icons=true)
+![Metrics](https://github-readme-stats.vercel.app/api?username=KaiHaverz&show_icons=true)
 
 ### GitHub Stats
 - **Total Stars Earned**: 0
